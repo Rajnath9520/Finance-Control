@@ -1,6 +1,6 @@
 # Finance Control — Backend
 
-A production-grade, secure, and scalable REST API for multi-user financial record management and analytics. Built with Node.js, Express, and MongoDB.
+A secure and scalable REST API for multi-user financial record management and analytics. Built with Node.js, Express, and MongoDB.
 
 ---
 
