@@ -104,7 +104,7 @@ The API will be available at `http://localhost:5000`.
 | Variable               | Description                          | Example                          |
 | ---------------------- | ------------------------------------ | -------------------------------- |
 | `PORT`                 | Server port                          | `5000`                           |
-| `MONGO_URI`            | MongoDB connection string            | `mongodb://localhost:27017/ledgerflow` |
+| `MONGO_URI`            | MongoDB connection string            | `mongodb://localhost:27017/FinanceControl` |
 | `JWT_ACCESS_SECRET`    | Secret for signing access tokens     | (long random string)             |
 | `JWT_REFRESH_SECRET`   | Secret for signing refresh tokens    | (different long random string)   |
 | `JWT_ACCESS_EXPIRES_IN`| Access token TTL                     | `15m`                            |
