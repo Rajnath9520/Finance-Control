@@ -88,6 +88,7 @@ app.get('/health', (req, res) => {
     success: true,
     message: 'FinanceControl API is running.',
     environment: process.env.NODE_ENV,
+    uptime: process.uptime(),
     timestamp: new Date().toISOString(),
   });
 });
